@@ -13,7 +13,6 @@ Title: QRM-Interplanetary
 Author: George O. Smith
 
 Release Date: May 6, 2022 [eBook #68005]
-[Last updated: June 10, 2022]
 
 Language: English
 
@@ -1671,7 +1670,7 @@ lady?"
 
 "Not as much as I'd like to do," said Channing. "I can't help much.
 We've got most of the place stopped off with the air-tight doors. We've
-been electrolyzing water, baking KClO_{3}, and everything else we can
+been electrolyzing water, baking KC1O_{3}, and everything else we can
 get oxy out of. I've a crew of men trying to absorb the CO_{2}. Jimmy
 Dickson is bringing me hourly reports on the CO_{2} content and we
 are losing. Slowly, Arden, but we are losing. Of course, I've known
